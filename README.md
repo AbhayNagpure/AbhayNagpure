@@ -3,13 +3,9 @@
 
 # 💻 Tech Stack:
 <p>
-<img src="https://skillicons.dev/icons?i=c,cpp,java,js,py,html,css,react,tailwind,nodejs,express,mongodb,git,github,vscode,postman"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,js,py,html,css,react,tailwind,nodejs,express,mongodb,socketio,git,github,vscode,postman"/>
 </p>
-<!-- Snake Game Repo View -->
 
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=AbhayNagpure&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
