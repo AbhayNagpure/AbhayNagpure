@@ -3,7 +3,7 @@
 
 # 💻 Tech Stack:
 <p>
-<img src="https://skillicons.dev/icons?i=c,cpp,java,js,py,html,css,react,tailwind,nodejs,express,mongodb,git,github,vscode,postman,ps"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,js,py,html,css,react,tailwind,nodejs,express,mongodb,git,github,vscode,postman,ps,mysql"/>
 </p>
 
 
