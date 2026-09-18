@@ -1,5 +1,5 @@
 #  Hi, I'm Abhay
- Full Stack Developer | Freelancer<br> IIT (ISM) Dhanbad<br> Building real client projects | Open to internships
+ Full Stack AI Developer | Freelancer<br> IIT (ISM) Dhanbad<br> Building real client projects | Open to internships
 
 # 💻 Tech Stack:
 <p>
